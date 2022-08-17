@@ -1,0 +1,57 @@
+Cỡ chữ
+Để đánh giá trải nghiệm người dùng với các thiết kế web, hãy nhìn vào phần mềm NoSquint.
+
+NoSquint là một addon nằm trong top 80 trên gần 10.000 addon được sử dụng nhiều nhất của Firefox, được người sử dụng bầu chọn 5 sao, được chính Mozilla gán mác Nên dùng (Recommend). Tính năng tương tự NoSquint được tích hợp thẳng (build-in) luôn vào trình duyệt Chrome. NoSquint làm chức năng tự động phóng to mọi trang web. Thành công của những phần mềm kiểu NoSquint nói lên một điều, các trang web bây giờ thiết kế rất khó đọc.
+
+Theo nghiên cứu, mắt người sẽ thoải mái nhất khi đọc văn bản cỡ 12-14pt (point). Vì vậy nên cỡ chữ mặc định của các phần mềm soạn thảo văn bản như MS Word, OpenOffice,… đều là 12pt. VnExpress, Dân trí, Vietnamnet,… hầu hết các trang web lớn của Việt Nam cũng đều dùng font cỡ 12pt.
+
+Nhưng các nhà thiết kế web không để ý rằng, phần mềm soạn thảo văn bản dùng để làm ra các văn bản in, và qui tắc “cỡ 12-14pt” để áp dụng cho văn bản giấy. Lúc đó đơn vị pt là một con số tuyệt đối, 72pt=1inch, tức là mắt sẽ thoải mái khi đọc chữ cỡ trong khoảng 0,423 đến 0,494cm. Còn pt trên trang web, khi hiển thị lên màn hình là một con số tương đối, nó sẽ biến đổi khác nhau tùy thuộc vào độ phân giải của màn hình. Độ phân giải màn hình càng cao thì kích cỡ thật của pt càng bé.
+
+
+
+Cùng một văn bản, một khổ chữ, nhưng sẽ có cỡ khác nhau khi hiển thị trên các màn hình độ phân giải khác nhau
+Mười năm trước, khi màn hình phổ thông là 17inch, độ phân giải 1440×900 thì kích thước “pt màn hình” xấp xỉ “pt thực” nên 12pt vẫn dễ đọc. Nhưng bây giờ, công nghệ đã có nhiều bước tiến lớn, các hãng đua nhau nâng cấp chất lượng màn hình, độ phân giải tăng vọt, hệ quả là chữ hiển thị trên website cũng bị thu nhỏ hẳn lại, nhất là với laptop, đặc biệt trong tình hình máy xách tay nhiều hơn để bàn như hiện nay. Hãy thử nhìn vào một số máy trên thị trường:
+
+Lenovo X300 13.3inch: 12pt màn hình = 0.318cm ~ 9pt thực
+Toshiba Satellite 14.4inch: 0.3cm ~ 8.5pt thực
+Thinkpad T61p 15.4inch: 0.276cm ~ 7.85pt thực
+Rõ ràng với chữ bé như vậy thì đọc rất mệt, rất mỏi mắt. Vậy nếu các nhà thiết kế web không muốn người đọc phải dùng phần mềm bổ trợ khi đọc website của mình thì hãy bắt kịp với công nghệ, sử dụng các phương pháp tự động thay đổi cỡ font theo độ phân giải màn hình như là RWD (Responsive Web Design) chẳng hạn, hay chí ít cũng tăng kích cỡ font văn bản lên.
+
+Arial và Times New Roman
+Trước đây, các nhà thiết kế web của Việt Nam gặp phải một vấn đề khó chịu, đó là font chữ tiếng Việt. Nếu người dùng không có font tiếng Việt cài trong máy, chữ tiếng Việt sẽ bị “vỡ”, không thể đọc được. Nên các nhà thiết kế thường chọn dùng những font có sẵn đi theo hệ điều hành, gọi là system font, như là Arial, Times New Roman, Tahoma, Verdana,… để đảm bảo máy người dùng lúc nào cũng hiển thị được tiếng Việt. Nhất là Arial và Times New Roman, hai font mặc định của Microsoft, được dùng ở khắp mọi nơi. VnExpress: Arial cho trang chủ, Times New Roman cho thân bài; Dân trí: Arial cho trang chủ, Times New Roman cho thân bài; Zing: Times New Roman; 24H: Arial,… Cứ tiếng Việt là Arial và Times New Roman.
+
+Một lần, trên diễn đàn về font chữ, có người lên xin tư vấn thế này:
+
+– Tôi vẫn thường dùng Arial với Times New Roman và thấy rất hài lòng, giờ tôi muốn tìm thêm vài font đẹp khác để đôi lúc thay đổi cho đỡ nhàm chán.
+
+Câu trả lời được nhiều người đưa ra nhất là:
+
+– Một khi Times New Roman và Arial mà cũng vừa mắt bạn thì đối với bạn, font nào cũng đẹp hết.
+
+Có nghĩa là Arial và Times New Roman… cực xấu.
+
+Nửa sau của thế kỉ 20, có một font đạt được thành công rất lớn đó là Helvetica, thành công đến mức có hẳn qui luật: “Nếu khó chọn, cứ dùng Helvetica”. Arial là một phiên bản copy của Helvetica, có sửa đổi để tránh bản quyền. Nhưng chính thứ “bắt chước có sáng tạo” đó đã làm mất đi những cái cân đối và hài hòa đã làm nên thành công của Helvetica, khiến người ta ví đọc văn bản Arial cảm giác không khác ngồi ăn tối trên một cái bàn cập kênh. Times New Roman được thiết kế cho báo giấy Times (của London) những năm 30 thế kỉ trước. Để tiết kiệm giấy nên Times New Roman khá hẹp, khoảng cách giữa các chữ sít nên dễ gây rối và mỏi mắt với đoạn văn bản dài. Cả hai font này đều không nên dùng.
+
+Bây giờ, công nghệ đã cho phép tải font từ máy chủ, các trang web có thể hiển thị đúng font theo thiết kế mà không phụ thuộc vào font cài trên máy người dùng. Điều này đã giải phóng cho các trang web việc phụ thuộc quá nhiều vào system font. Nếu bạn quan tâm tới tính thẩm mỹ của chữ nghĩa, tới tính dễ đọc của trang web, nếu bạn không muốn trang web của mình lọt thỏm giữa một rừng các trang Arial, Times New Roman nhan nhản trên internet bây giờ thì có rất nhiều font tốt để cho bạn lựa chọn: Myriad như Apple, Lucida Grande như Facebook, Frutiger như ở sân bay Charles de Gaulle, Pháp; rồi Franklin Gothic, Gill Sans,… hay thậm chí nhiều trang web đã thiết kế font chữ riêng cho mình để đảm bảo phong cách và tính độc đáo.
+
+Công nghệ có sẵn, font có nhiều, nếu vẫn sử dụng Arial và Times New Roman thì đó là một sự lựa chọn lười biếng và cẩu thả.
+
+
+
+Rất nhiều trang web đã tự thiết kế riêng font chữ để đảm bảo phong cách và tính độc đáo
+
+Khoảng trắng
+Ngày xưa, khi vào Google, nhìn nguyên trang web hầu như chỉ có mỗi logo và ô tìm kiếm, còn lại là cả một khoảng trắng mênh mông, tôi nghĩ “sao phí không gian thế”. Nhưng càng ngày, tôi càng thấy đó là một trong những thiết kế xuất sắc nhất trên thế giới. Thiết kế đó khiến cho người dùng không thể phân tán sự chú ý sang bất kì việc gì khác, ngoài việc sử dụng dịch vụ của Google. Google đã áp dụng rất tốt câu: “Khoảng trắng không phải phí, khoảng trắng là để tăng tập trung vào nội dung”.
+
+Nhưng rất tiếc, tư tưởng “phí” vẫn đang thống trị đầu óc các nhà thiết kế web Việt Nam hiện nay. Các website thi nhau nhét tranh ảnh, quảng cáo, bài vở kín mít tất cả các chỗ trống trên trang web, giống hệt đường Hà Nội lúc tan tầm, chật chội, ngột ngạt và chẳng chú tâm được vào cái gì. Khoa học đã chứng minh 98% con người trên thế giới này là “đơn nhiệm”, tức là chỉ làm tốt khi làm một lúc một việc. Nhét càng nhiều nội dung vào một chỗ chỉ càng làm người đọc chẳng tập trung được vào chỗ nào.
+
+Họ sẽ lại nói “cần phải có nhiều quảng cáo để lấy thu nhập cho trang web”. Câu trả lời là website của họ không thể quảng cáo nhiều bằng Google, mà Google vẫn đủ không gian cho khoảng trắng. Như vậy vấn đề nằm ở trình độ và tư tưởng thiết kế chứ không phải ở “quảng cáo”.
+
+
+
+Trong khi các trang web lớn trên thế giới như Yahoo, càng ngày càng tăng khoảng trắng trên trang chủ, thì các trang web của Việt Nam mỗi ngày lại nhồi thêm lắm thứ vào trong một nơi. Người ta có câu: Nội dung là trên hết (Content is King). Nếu muốn người đọc tập trung vào nội dung của website thì các nhà thiết kế web nên Tối đa hóa khoảng trắng. Hãy nhớ: Khoảng trắng là để tăng tập trung vào nội dung.
+
+Typography
+Nếu không phải là một website multimedia, thì phần chiếm nhiều không gian nhất của trang web chính là văn bản. Để làm ra một trang web tốt, người thiết kế sẽ phải để nhiều tâm trí vào việc trình bày văn bản. Từ việc chọn font đẹp, dễ đọc, phù hợp với phong cách thiết kế tổng thể, nổi bật lên nội dung, cho đến phối hợp chữ với hình ảnh, hài hòa với bố cục, màu sắc, thân thiện với người dùng.
+
+Những điều đó là đối tượng nghiên cứu của một bộ môn có tên là Typography. Typography cung cấp các qui luật về thẩm mỹ, các qui tắc trình bày văn bản thân thiện với người đọc, và rất nhiều vấn đề thú vị khác về khoa học và nghệ thuật về chữ. Với tình trạng thẩm mỹ các trang web như hiện nay, các nhà thiết kế web Việt Nam rất nên đi học Typography.

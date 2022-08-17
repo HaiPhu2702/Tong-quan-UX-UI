@@ -1,0 +1,60 @@
+F-Pattern là một mô hình mô tả cách thức thông thường mà mắt người thường đảo qua các khối nội dung trên một trang web. Chỉ trong một khoảnh khắc ngắn, mắt người thường lướt qua một lượng lớn nội dung trên một trang web.
+
+F-Pattern được giới thiệu bởi NNGroup trong một nghiên cứu theo dõi mắt (Xem thêm ở đây), trong đó ghi lại cách thức mà khoảng hơn 200 người dùng đã nhìn vào hàng nghìn website khác nhau. Nghiên cứu này cho thấy rằng mắt của người dùng thường có một hành vi khá tương tự nhau khi đọc các nội dung trên các website khác nhau. Mắt người dùng thường chuyển động theo một hình dạng gần tương tự như chữ F, trong đó có 3 thành phần:
+
+Trước tiên, người dùng sẽ di chuyển mắt theo phương nằm ngang, thông thường là phần trên của nội dung. Phần này tương ứng với nét nằm ngang trên cùng của chữ F.
+Sau đó, mắt người dùng sẽ quét theo một phương nằm dọc sát lề bên trái của nội dung. Khi bắt gặp một hình ảnh hoặc bất cứ thứ gì đáng chú ý thì họ lại hướng mắt theo phương nằm ngang bắt đầu từ điểm đó, việc này sẽ tạo thêm một nét ngang nữa, tương ứng với nét ngang bên dưới của chữ F.
+Cuối cùng, người dùng sẽ lướt hết toàn bộ nội dung sát lề trái của trang web.
+
+
+Mắt người thường có thói quen bắt đầu ở góc bên trái, sau đó lướt ngang, sau đó lướt dọc theo lề trái và lần lượt xuống bên dưới.
+
+
+
+Nghiên cứu của NNGroup đã chỉ ra rằng người dùng thường đảo mắt theo một mẫu hình chữ F hoặc E. Vùng mà mắt người tập trung nhiều được tô bằng màu đỏ đậm, vùng ít được nhìn thì màu vàng, và màu xanh là ít được nhìn nhất. Không có màu nghĩa là thường không nhìn (hoặt rất ít).
+
+Tại sao chúng ta nên dùng F-Pattern
+F-Pattern giúp chúng ta có cơ sở để trình bày nội dung của một tài liệu theo cách thức mà phù hợp với thói quen nhìn của ngươi dùng, chẳng hạn áp dụng cho một trang blog, tin tức, website bán hàng... Với cách bố trí phù hợp thì dễ giúp người dùng tiếp nhận được thông tin hơn, và làm nổi bật được những nội dung quan trọng nhất.
+
+Khi nào nên dùng F-Pattern
+F-Pattern phù hợp nhất cho các website có nhiều nội dung bằng chữ, chẳng hạn như blog, website tin tức. Nếu có nhiều chữ, thông thường thì người dùng sẽ đọc theo một cách thức tự nhiên nhất đối với mắt.
+
+
+
+Sử dụng F-Pattern như thế nào
+
+Đánh độ ưu tiên cho các phần của nội dung
+Trước khi trình bày nội dung, cần đánh giá xem những nội dung nào là quan trọng nhất, những nội dung nào ít quan trọng hơn, và những nội dung nào chỉ mang tính hỗ trợ (ít quan trọng nhất). Sau khi đã xác định được mức độ quan trọng của từng phần, chúng ta sẽ cố gắng đặt chúng vào các "vùng nóng" theo như mô tả của F-Pattern.
+
+Đưa phần quan trọng nhất lên trên cùng
+Một (hoặc hai) đoạn đầu tiên của tài liệu là nơi quan trọng nhất, xứng đáng để đặt các nội dung quan cốt lõi của bài viết. Thông thường chúng ta nên đặt nội dung liên quan đến mục tiêu hoặc ý định của bài viết ở vùng này.
+
+Người dùng thường có thói quen lướt theo chiều ngang, do đó đây cũng là nơi phù hợp để đặt một thanh điều hướng (navigation bar).
+
+
+
+Thiết kế để lướt qua nhanh, không phải để đọc kỹ
+
+Người dùng thường không dành nhiều thời gian để đọc kỹ, do đó cần chú ý đến một số quy tắc:
+
+Bắt đầu các đoạn văn với những từ khoá thật lôi cuốn
+Người dùng thường chú ý đến các thành phần nổi bật nhất, do đó, cần để cho các thành phần quan trọng trở nên nổi bật: sử dụng font chữ (in đậm, bôi vàng...), hoặc là sử dụng màu sắc để làm nổi bật nút bấm.
+Chỉ truyền tải một ý tưởng trong một đoạn văn, tránh viết quá nhiều ý gây khó hiểu. Nên sử dụng dấu bullet càng nhiều càng tốt
+Đặt các nội dung quan trọng nhất ở phía bên trái hoặc bên phải, nơi mà người dùng bắt đầu hoặc kết thúc việc lướt theo chiều ngang.
+Sử dụng sidebar
+Sidebar có tác dụng giúp người dùng tiếp tục tìm hiểu sâu về nội dung, do đó nên sử dụng sidebar để thu hút người dùng:
+
+Làm nổi bật bất cứ nội dung nào mà mình muốn, nhưng lại không liên quan đến nội dung "chính" của trang web. Chẳng hạn như: danh sách các bài viết liên quan, quảng cáo, một mẩu tin từ mạng xã hội...
+Sử dụng như một công cụ để giúp người dùng dễ dàng tìm kiếm đến một nội dung nhất định, chẳng hạn như: danh sách các danh mục, thẻ mây (tag cloud), các bài viết nổi bật...
+
+
+Hạn chế sử dụng các bố cục gây nhàm chán
+
+Nhược điểm dễ thấy nhất của F-Pattern là có khuynh hướng dẫn đến sự đơn điệu trong bố cục. Khả năng người dùng sẽ dễ nhàm chán với các nội dung giống nhau lặp đi lặp lại theo từng hàng. Do đó, thỉnh thoảng nên chèn vào một vài thành phần khác biệt để giữ được sự chú ý của người dùng.
+
+
+
+Kỹ thuật này được gọi là "phá bỏ kỳ vọng" (breaking the expectations) của bố cục, khá hữu ích trong những trường hợp có một dãy dài nội dung được cuốn xuống phía dưới.
+
+Kết luận
+F-Pattern đơn giản chỉ mô tả lại thói quen của mắt người, chúng ta dựa vào đó để bố trí nội dung của trang web. Nhưng, chúng ta cũng không nhất thiết phải theo sát mẫu này, bởi vì đây chỉ là một gợi ý (guideline), chứ không phải là một mẫu (template).

@@ -1,0 +1,67 @@
+[Bài đọc] Các vấn đề thường gặp khi kết hợp các kiểu chữ trong Typo
+Anh Hà Dũng Hiệp, một trong những chuyên gia hàng đầu của Việt Nam về Typography đã có rất nhiều những buổi chia sẻ với sinh viên yêu thích Typo và những người mới vào nghề. Tôi đã từng tham dự một buổi TypeTalk về “Trường nhìn” của anh Hiệp. Sau đây là những tổng hợp của tôi về việc phát hiện các vấn đề khi kết hợp các kiểu chữ trong thiết kế Type và cách để xử lý chúng sau buổi nói chuyện thú vị này của anh.
+
+1. Mắc lỗi khi sử dụng kiểu chữ đậm nét
+
+Lỗi: Dùng 2 kiểu chữ đậm nét đứng cạnh nhau
+Sửa: Chỉ dùng kiểu chữ đậm nét cho một trong nhóm ký tự (tạo ra sự tương phản giữa hai nhóm)
+Quá tay: Sửa theo chỉ dẫn trên nhưng lại cho một nhóm in nghiêng
+
+
+2. Mắc lỗi khi sử dụng kiểu chữ in nghiêng
+
+Lỗi: Dùng hai kiểu chữ in nghiêng để thể hiện Type.
+Sửa: Giữ phần trước in nghiêng, và nên chọn kiểu chữ mềm (nét thanh, nét đậm). Phần sau dùng kiểu in hoa, nét đậm.
+Quá tay: Sửa như phần 1.Quá tay
+
+
+3. Mắc lỗi khi dùng các kiểu khổ rộng\khổ hẹp (kiểu chữ có kích thước bề ngang mở rộng\thu hẹp)
+
+Lỗi: Kết hợp một kiểu nào đó với kiểu khổ rộng\khổ hẹp
+Sửa: Chuyển sang dùng cùng là hai kiểu khổ rộng\khổ hẹp và phần đầu dùng kiểu chữ nét đậm. Hoặc tương phản hoàn toàn, phần đầu chọn kiểu chữ khổ rộng nét đậm, phần sau khổ hẹp
+Quá tay: Cùng kiểu khổ rộng nhưng nét đậm của hai phần khá tương đồng (ko tương phản)
+
+
+4. Mắc lỗi khi thay đổi kiểu chữ
+
+Lỗi: Khi nhóm phía trên có khổ khác so với nhóm phía dưới nhiều người có xu hướng điều chỉnh để hai phần cân nhau bằng cách kéo dãn\thu hẹp khổ của một trong hai nhóm đó, hành động này sẽ làm thay đổi kiểu chữ gốc (bị kéo bẹt ra hoặc nén nhỏ lại). Điều này không những là một lỗi cần tránh mà còn khiến tác giả phông chữ này chỉ còn nước :o(
+Sửa: Tăng đều các chiều kiểu chữ (tăng cả chiều rộng và cao để giữ nguyên vẹn thiết kế) của nhóm phía trên để có được khổ rộng bằng nhóm phía dưới. Hoặc tăng đều khoảng cách giữa các ký tự (tracking) của nhóm phía dưới để rộng bằng nhóm phía trên, tuy nhiên cần lưu ý tránh dãn cách quá lớn vì sẽ làm mất cân bằng trắng (white balance).
+Quá tay: Tracking quá tay dẫn tới mất cân bằng trắng.
+
+
+5. Mắc lỗi khi kết hợp hai kiểu chữ có tính nghệ thuật cao
+
+Lỗi: Kết hợp hai kiểu chữ rất nghệ thuật với nhau trong một thiết kế.
+Sửa: Nhóm đầu chọn kiểu nghệ thuật, nhóm còn lại chọn kiểu đơn giản nét đậm (serif hoặc sans-serif).
+Quá tay: Đã sửa theo chỉ dẫn nhóm thứ hai lại chọn kiểu đơn giản với nét mảnh điều này sẽ làm mất tính tương phản so với nhóm sử dụng kiểu nghệ thuật.
+
+
+6. Mắc lỗi khi kết hợp hai kiểu serif khác nhau
+
+Lỗi: Chọn hai kiểu serif cho hai nhóm trong một thiết kế
+Sửa: Nên kết hợp kiểu serif với sans-serif hoặc cũng một kiểu serif nhưng khác về độ đậm của nét chữ. Có thể chuyển một nhóm sang kiểu in hoa.
+Quá tay: Đã điều chỉnh như chỉ dẫn nhưng dùng sử dụng kiểu in hoa cho cả hai nhóm.
+
+
+7. Tối ưu khi thể hiện hai nội dung có nghĩa trái ngược nhau
+
+Chưa tối ưu: Thể hiện hai nội dung có ý nghĩa ngược nhau nhưng không tạo được điểm nhấn.
+Sửa: Căn sang phải và tìm nhiều cách kết hợp khác để thể hiện sự trái ngược về nghĩa, ví dụ như lộn ngược một nhóm. v.v…
+Non tay: Chỉ căn lề sang phải mà thôi.
+
+
+8. Tối ưu khi thể hiện sự nhấn mạnh
+
+Chưa tối ưu: Khi thiết kế gặp vấn đề cần nhấn mạnh nhưng không thể hiện rõ ràng điều này mặc dù có cơ hội tốt.
+Sửa: Sử dụng những hình ảnh có thể thay thế cho các ký tự nhằm tăng tính nhấn mạnh và sức lôi cuốn mắt vào điểm đó.
+Non tay: Nhấn mạnh vào những ký tự ít hoặc vô giá trị.
+
+
+9. Mắc lỗi khi sử dụng những kiểu xung đột
+
+Lỗi: Nhiều kiểu chữ được thiết kế với mục đích cụ thể nào đó, tuy nhiên nhiều người không nắm được tính chất lịch sử này. Do đó, người thiết kế có thể dùng hai kiểu chữ xung đột về lịch sử, văn hóa, bối cảnh.
+Sửa: Tìm hiểu nếu về kiểu chữ cần thiết và chọn hai kiểu biết chắc không bị xung đột.
+Quá tay: Dùng kiểu không xung đột nhưng dùng quá số lượng cho phép, chỉ nên dùng ít hơn hai kiểu chữ trong một thiết kế.
+
+
+Hy vọng những chỉ dẫn đơn giản này sẽ giúp bạn tránh được những lỗi thường gặp khi thiết kế Type để có những sản phẩm ngày càng chất lượng hơn.
